@@ -1,7 +1,7 @@
 let couples=[
     {
-        gf:"Manasa",
-        bf:"Nani"
+        gf:"Rajeena",
+        bf:"Noel"
 
     },
     {
@@ -15,7 +15,7 @@ let couples=[
 
     },
     {
-        gf:"Rushmitha",
+        gf:"Ruthvika",
         bf:"Suga"
 
     },
