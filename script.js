@@ -40,8 +40,8 @@ let couples=[
 
     },
     {
-        bf:"sathya",
-        gf:"gopi"
+        gf:"sathya",
+        bf:"gopi"
 
     },
     {
